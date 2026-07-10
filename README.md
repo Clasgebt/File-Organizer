@@ -15,6 +15,7 @@ Feeling lazy and overwhelmed by sorting folders and files? Maybe this utility ap
 ## DISCLAIMER
 Use this at your own risk! This app doesn't take your personal information and privacy! Check the script if you are unsure about this app. 
 This moves files on your computer - always test on sample file first before running on anything important! 😼
+(files are moved, not copied, so mistakes aren't easily reversible)
 
 ---
 
