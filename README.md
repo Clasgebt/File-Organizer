@@ -20,16 +20,16 @@ This moves files on your computer - always test on sample file first before runn
 ---
 
 ## Tech Used
- - os (folders path)
+ - os (folder paths)
  - shutil (moving files)
 
-## How do i run it?
-Simply by executing this script, then enter the folder path you want to do! Keep in mind to do this on sample file first. 
+## How do I run it?
+Execute this script, then enter the folder path you want to organize! Please do this on the sample file first. 
 
 ---
 
 ## DEMO
-This is before and after using this. Still unsure? You can always check the script and test it on sample file!
+This is before and after using this. Still unsure? You can always check the script and test it on a sample file!
 ![BEFORE](BEFORE.png)
 ![AFTER](DEMO.png)
 
@@ -37,7 +37,7 @@ This is before and after using this. Still unsure? You can always check the scri
 Personal notes
 
 ### What I learned
-I learned some few of how os works, files and also creating and moving files. I love making this program too and learning every line of it!
+I learned a few of how os works, files, and also creating and moving files. I love making this program too and learning every line of it!
 
 ### Future Improvements
  - Let user Customize
